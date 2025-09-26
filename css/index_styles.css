@@ -4,13 +4,16 @@ html {
     background-color: black;
 }
 
-.header {
-    padding: 50px;
-    
-}
-
 /*Body Styles */
 
+
+/*Body Header Styles*/
+
+body > header > img {
+    display: block;
+}
+
+body > header > nav#
 
 
 /* Navigation List Styles */
