@@ -4,20 +4,74 @@ html {
     background-color: black;
 }
 
-/*Body Styles */
+/* Body Styles */
 
 
-/*Body Header Styles*/
-
-body > header > img {
-    display: block;
+/* Images */
+.column {
+    float: left;
+    flex: 33.33%;
+    padding: 5px;
 }
 
-body > header > nav#
+.row {
+    display: flex;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.column2 {
+    float: left;
+    flex: 33.33%;
+    padding: 5px;
+}
+
+.row2 {
+    display: flex;
+}
+
+.row2::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.column3 {
+    float: left;
+    flex: 33.33%;
+    padding: 5px;
+}
 
 
 /* Navigation List Styles */
 
+.navbar ul {
+    list-style-type: none;
+    background-color: rgb(59, 59, 59);
+    padding: 0px;
+    margin: 0px;
+}
 
+.navbar a {
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    background-color: rgb(26, 26, 26);
+}
+
+.navbar a:hover {
+    background-color: rgb(59, 59, 59);
+}
+
+.navbar li {
+    float: right;
+}
 
 /* Footer Styles */
