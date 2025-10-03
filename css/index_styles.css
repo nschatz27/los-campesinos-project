@@ -5,13 +5,21 @@ html {
 }
 
 /* Body Styles */
-
+body {
+    margin: 0;
+    padding: 0;
+    width: 907.5;
+    height: 202.406;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
 
 /* Images */
-.column {
+.container {
     float: left;
-    flex: 33.33%;
+    flex: 100%;
     padding: 75px;
+    margin-top: -100px;
 }
 
 .row {
@@ -24,10 +32,18 @@ html {
     display: table;
 }
 
-.column2 {
+.container2 {
     float: left;
-    flex: 33.33%;
-    padding: 5px;
+    flex: 100%;
+    padding: 75px;
+    margin-top: -600px;
+}
+
+.paragraph-one {
+    color: white;
+    font-size: 30px;
+    word-spacing: 5px;
+    margin-top: 5px;
 }
 
 .row2 {
@@ -40,12 +56,35 @@ html {
     display: table;
 }
 
-.column3 {
+.container3 {
     float: left;
-    flex: 33.33%;
-    padding: 5px;
+    flex: 100%;
+    padding: 75px;
+    margin-top: -320px;
 }
 
+.paragraph-two {
+    color: white;
+    font-size: 32.5px;
+    word-spacing: 5px;
+    margin-top: 5px;
+}
+
+.container4 {
+    width: 750px;
+    float: right;
+    display: flex;
+    padding: 10px;
+}
+
+.paragraph-three {
+    color: white;
+    text-align: center;
+    margin: -50px;
+    font-size: 30px;
+    transform: translate(-1%, 10%);
+    word-spacing: 8px;
+}
 
 /* Navigation List Styles */
 
@@ -73,5 +112,3 @@ html {
 .navbar li {
     float: right;
 }
-
-/* Footer Styles */
