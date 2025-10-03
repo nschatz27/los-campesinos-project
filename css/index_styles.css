@@ -5,6 +5,8 @@
     background-color: rgb(59, 59, 59);
     padding: 0px;
     margin: 0px;
+    position: fixed;
+    left: 1650px;
 }
 
 .navbar a {
@@ -14,6 +16,8 @@
     display: block;
     text-align: center;
     background-color: rgb(26, 26, 26);
+    text-decoration: none;
+    position: fixed;
 }
 
 .navbar a:hover {
@@ -41,50 +45,24 @@ body {
 }
 
 /* Images */
-.container {
+.container-left-one {
+    padding-top: 30px;
+    padding-left: 30px;
+    position: fixed, left;
+    display: flex;
+    flex-wrap: wrap;
     float: left;
-    padding: 75px;
-    margin-top: -100px;
 }
 
-.container2 {
+.container-left-two {
+    padding-top: 30px;
+    padding-left: 30px;
+    position: fixed, left;
+    display: flex;
+    flex-wrap: wrap;
     float: left;
-    padding: 75px;
-    margin-top: -600px;
 }
 
 .paragraph-one {
-    color: white;
-    font-size: 30px;
-    word-spacing: 5px;
-    margin-top: 5px;
-}
-
-.container3 {
-    float: left;
-    padding: 75px;
-    margin-top: -320px;
-}
-
-.paragraph-two {
-    color: white;
-    font-size: 32.5px;
-    word-spacing: 5px;
-    margin-top: 5px;
-}
-
-.container4 {
-    width: 750px;
-    float: right;
-    display: flex;
-    padding: 10px;
-}
-
-.paragraph-three {
-    color: white;
-    text-align: center;
-    margin: -50px;
-    font-size: 30px;
-    transform: translate(-1%, 10%);
-    word-spacing: 8px;
+    font-size: 10px;
 }
