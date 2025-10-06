@@ -18,9 +18,9 @@ ul {
 ul li a {
   display: block;
   color: white;
-  height: 75px;
+  height: 70px;
   width: 130px;
-  line-height: 50px;
+  line-height: 47px;
   text-align: center;
   font-size: 25px;
   padding: 14px 16px;
@@ -34,7 +34,7 @@ ul li a:hover {
 .navbar {
   position: absolute;
   top: 26%;
-  margin-left: 1659px;
+  margin-left: 1660px;
   background-color: grey;
 }
 
@@ -60,7 +60,7 @@ ul li a:hover {
     box-sizing: border-box;
 }
 
-body {
+header {
     height: 100%;
     display: flex;
     justify-content: center;
@@ -92,3 +92,139 @@ body {
         transform: translateX(calc(-100%));
     }
 }
+
+/* Paragraph */
+
+.studio-albums p {
+    color: white;
+    margin-top: 30px;
+    margin-left: 20px;
+    font-size: 30px;
+}
+
+.all-hell {
+    margin-top: 35px;
+    margin-left: 70px;
+    height: 200px;
+    width: auto;
+    display: block;
+    display: flex;
+}
+
+.all-hell p {
+    margin-top: 215px;
+    margin-left: -140px;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    line-height: 12px;
+}
+
+.sick-scenes {
+    margin-top: -199px;
+    margin-left: 300px;
+    height: 200px;
+    width: auto;
+    display: block;
+    display: flex;
+}
+
+.sick-scenes p {
+    margin-top: 195px;
+    margin-left: -155px;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    line-height: 25px;
+}
+
+.no-blues {
+    margin-top: -199px;
+    margin-left: 530px;
+    height: 200px;
+    width: auto;
+    display: block;
+    display: flex;
+}
+
+.no-blues p {
+    margin-top: 213px;
+    margin-left: -145px;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    line-height: 13px;
+}
+
+.hello-sadness {
+    margin-top: 100px;
+    margin-left: 70px;
+    height: 200px;
+    width: auto;
+    display: block;
+    display: flex;
+}
+
+.hello-sadness p {
+    margin-top: 213px;
+    margin-left: -169px;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    line-height: 13px;
+}
+
+.romance-is-boring {
+    margin-top: -199px;
+    margin-left: 300px;
+    height: 200px;
+    width: auto;
+    display: block;
+    display: flex;
+}
+
+.romance-is-boring p {
+    margin-top: 213px;
+    margin-left: -198px;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    line-height: 13px;
+}
+
+.we-are-beautiful-we-are-doomed {
+    margin-top: -200px;
+    margin-left: 530px;
+    height: 200px;
+    width: auto;
+    display: block;
+    display: flex;
+}
+
+.we-are-beautiful-we-are-doomed p {
+    margin-top: 205px;
+    margin-left: -192px;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    line-height: 15px;
+}
+
+.hold-on-now-youngster {
+    margin-top: 100px;
+    margin-left: 300px;
+    height: 200px;
+    width: auto;
+    display: block;
+    display: flex;
+}
+
+.hold-on-now-youngster p {
+    margin-top: 205px;
+    margin-left: -172px;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    line-height: 16px;
+}
+
