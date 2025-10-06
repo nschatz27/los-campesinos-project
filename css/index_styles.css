@@ -83,7 +83,7 @@ ul li a:hover {
     width: 50%;
     height: auto;
     position: absolute;
-    top: 58%;
+    top: 60%;
     left: 2%;
 }
 
@@ -92,7 +92,7 @@ ul li a:hover {
     color: white;
     position: absolute;
     font-size: 35px;
-    top: 79%;
+    top: 82%;
     left: 2%;
 }
 
@@ -102,7 +102,7 @@ ul li a:hover {
     width: 50%;
     height: auto;
     position: absolute;
-    top: 89%;
+    top: 92%;
     left: 2%;
 }
 
@@ -111,7 +111,7 @@ ul li a:hover {
     color: white;
     position: absolute;
     font-size: 37px;
-    top: 118%;
+    top: 122%;
     left: 2%;
     padding-bottom: 0.8em;
 }
