@@ -18,9 +18,9 @@ ul {
 ul li a {
   display: block;
   color: white;
-  height: 70px;
+  height: 60px;
   width: 130px;
-  line-height: 47px;
+  line-height: 30px;
   text-align: center;
   font-size: 25px;
   padding: 14px 16px;
@@ -33,8 +33,8 @@ ul li a:hover {
 
 .navbar {
   position: absolute;
-  top: 26%;
-  margin-left: 1660px;
+  top: 28%;
+  margin-left: 1645px;
   background-color: grey;
 }
 
@@ -93,12 +93,12 @@ header {
     }
 }
 
-/* Paragraph */
+/* Albums */
 
 .studio-albums p {
     color: white;
     margin-top: 30px;
-    margin-left: 20px;
+    margin-left: 70px;
     font-size: 30px;
 }
 
@@ -228,3 +228,159 @@ header {
     line-height: 16px;
 }
 
+.eps-other p {
+    color: white;
+    margin-top: -875px;
+    margin-left: 1100px;
+    font-size: 30px;
+}
+
+.so-close-to-heaven {
+    margin-top: 39px;
+    margin-left: 1100px;
+    height: 200px;
+    width: auto;
+    display: block;
+    display: flex;
+}
+
+.so-close-to-heaven p {
+    margin-top: 200px;
+    margin-left: -199px;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    line-height: 15px;
+}
+
+.more-hell {
+    margin-top: -200px;
+    margin-left: 1330px;
+    height: 200px;
+    width: auto;
+    display: block;
+    display: flex;
+}
+
+.more-hell p {
+    margin-top: 205px;
+    margin-left: -155px;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    line-height: 16px;
+}
+
+.whole-body {
+    margin-top: -200px;
+    margin-left: 1560px;
+    height: 200px;
+    width: auto;
+    display: block;
+    display: flex;
+}
+
+.whole-body p {
+    margin-top: 205px;
+    margin-left: -200px;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    line-height: 16px;
+}
+
+.christmas {
+    margin-top: 100px;
+    margin-left: 1100px;
+    height: 200px;
+    width: auto;
+    display: block;
+    display: flex;
+}
+
+.christmas p {
+    margin-top: 190px;
+    margin-left: -165px;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    line-height: 16px;
+}
+
+.fistfight {
+    margin-top: -200px;
+    margin-left: 1330px;
+    height: 200px;
+    width: auto;
+    display: block;
+    display: flex;
+}
+
+.fistfight p {
+    margin-top: 200px;
+    margin-left: -169px;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    line-height: 15px;
+}
+
+.alls-well-that-ends {
+    margin-top: -200px;
+    margin-left: 1560px;
+    height: 200px;
+    width: auto;
+    display: block;
+    display: flex;
+}
+
+.alls-well-that-ends p {
+    margin-top: 200px;
+    margin-left: -155px;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    line-height: 15px;
+}
+
+.hold-on-now-youngster-demo {
+    margin-top: 150px;
+    margin-left: 1220px;
+    height: 200px;
+    width: auto;
+    display: block;
+    display: flex;
+}
+
+.hold-on-now-youngster-demo p {
+    margin-top: 200px;
+    margin-left: -165px;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    line-height: 16px;
+}
+
+.sticking-fingers-into-sockets {
+    margin-top: -200px;
+    margin-left: 1460px;
+    height: 200px;
+    width: auto;
+    display: block;
+    display: flex;
+}
+
+.sticking-fingers-into-sockets p {
+    margin-top: 200px;
+    margin-left: -180px;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    line-height: 15px;
+}
+
+.blank p {
+    margin-top: 120px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
